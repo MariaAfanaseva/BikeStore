@@ -15,6 +15,7 @@
                         <li class="menu_list">
                             <router-link class="menu_link" to="/contacts">Contacts</router-link>
                         </li>
+                        <Cart/>
                     </ul>
                 </div>
             <router-view/>
@@ -24,3 +25,13 @@
         </div>
     </div>
 </template>
+
+<script>
+import Cart from '@/components/Cart.vue';
+
+export default {
+  components: {
+    Cart,
+  },
+};
+</script>

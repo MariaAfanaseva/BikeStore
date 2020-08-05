@@ -1,0 +1,22 @@
+[
+  {
+    "id_product": 1,
+    "product_name": "Giant Glory 27.5 0",
+    "image": "Glory_27_5_0_Brushed_Black.jpg"
+  },
+  {
+    "id_product": 2,
+    "product_name": "Giant Trance Advanced 25.8 1",
+    "image": "MY19-Trance-ADV-1_Color-A.jpg"
+  },
+  {
+    "id_product": 3,
+    "product_name": "Giant Glory Advanced 26.0 0",
+    "image": "MY19-Trance-ADV-1_Color-A.jpg"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Giant Glory Advanced 29.0 0",
+    "image": "MY19-Trance-ADV-1_Color-A.jpg"
+  }
+]

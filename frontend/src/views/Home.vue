@@ -8,17 +8,4 @@
             Here you will find a bike to your liking.
         </p>
     </div>
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
 </template>
-
-<script>
-// @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue';
-
-export default {
-  name: 'Home',
-// components: {
-// HelloWorld,
-// },
-};
-</script>

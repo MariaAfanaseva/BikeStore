@@ -23,9 +23,7 @@
                 <p>Our phone: 8 (800) 555-55-55</p>
                 <p>Our email: BikeStore@gmail.com</p>
                 <p>Our address: Moscow, Academician Korolev street 12</p>
-                <div id="contacts_map" class="map">
-                    <!-- <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A4c6c0a55c2339ff86f05a8e1d8d80e493ed089335c2b88565f992d2c03de201c&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script> -->
-                </div>
+                <div id="contacts_map" class="map"></div>
         </div>
     </div>
 </template>

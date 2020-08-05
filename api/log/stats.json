@@ -1,0 +1,462 @@
+[
+    {
+        "date": "July 14th 2020, 3:22:36 pm",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:22:39 pm",
+        "action": "delete",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:22:57 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:58 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:58 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:58 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:59 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:59 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:08 pm",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:23:09 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:11 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:21 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:23:21 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:26 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:27 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:29 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:44 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:45 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:47 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:51 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:55 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:58 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:59 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:44:08 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:48:25 pm",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:49:20 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:49:26 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:50:50 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:53:24 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:25 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:28 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:53 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:56 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:54:03 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:54:03 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:54:06 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:18 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:24 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:26 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:27 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:28 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:29 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:29 pm",
+        "action": "add",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:30 pm",
+        "action": "change",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:31 pm",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:31 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "change",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:34 pm",
+        "action": "delete",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:34 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:34 pm",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:35 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:35 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:36 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:36 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:36 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:37 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:37 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:38 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:38 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:39 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:59 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:56:00 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:56:00 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:56:05 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:28 am",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:29 am",
+        "action": "add",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:31 am",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:32 am",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:33 am",
+        "action": "delete",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:36 am",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:37 am",
+        "action": "delete",
+        "productName": "Ноутбук"
+    }
+]

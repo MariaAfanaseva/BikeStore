@@ -1,4 +1,6 @@
-# bike_store Vue CLI
+# bike_store 
+frontend: Vue CLI
+backend: node, express
 
 ## Project setup
 ```
