@@ -1,5 +1,17 @@
-{
-    "amount": 46600,
-    "countGoods": 2,
-    "contents": []
-}
+[
+    {
+        "id_product": 1,
+        "product_name": "Giant Glory 27.5 0",
+        "image": "Glory_27_5_0_Brushed_Black.jpg",
+        "price": 1000,
+        "quantity": 8
+    },
+    {
+        "id_product": 3,
+        "product_name": "Giant Glory Advanced 26.5 0",
+        "image": "MY19-Trance-ADV-1_Color-A.jpg",
+        "description": "DH terrain comes at you fast. You need the confidence and control to make split-second decisions and commit to your lines. With 203mm of fully active Maestro Suspension featuring a trunnion-mount shock, the Glory 26.5 has been tested and proven by some of the top DH racers and gravity riders in the world.",
+        "price": 1300,
+        "quantity": 4
+    }
+]

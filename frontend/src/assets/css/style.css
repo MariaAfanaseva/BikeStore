@@ -202,7 +202,7 @@ body{
 
 .title{
     text-align: center;
-    margin: 40px 0 20px 30px;
+    margin: 70px 0 40px 30px;
 }
 
 .index_img_title{
@@ -223,7 +223,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
-    margin: 50px;
+    margin: 0 50px 50px 50px;
 }
 
 .catalog_product{
@@ -295,6 +295,11 @@ body{
     border-radius: 10px;
 }
 
+.product_detail_img{
+    width: 630px;
+    border-radius: 10px;
+}
+
 .product_headline{
     padding: 5px;
     color: black;
@@ -317,6 +322,16 @@ body{
     color: #707070;
     font-size: 16px;
     font-style: italic;
+    line-height: 20px;
+    margin-top: 40px;
+}
+
+.product_price{
+    text-align: center;
+    font-size: 20px;
+    color: #707070;
+    font-style: italic;
+    margin-top: 40px;
     line-height: 20px;
 }
 
