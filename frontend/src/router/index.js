@@ -33,11 +33,6 @@ const routes = [
     name: 'Basket',
     component: () => import('../views/Basket.vue'),
   },
-  {
-    path: '/search',
-    name: 'SearchProducts',
-    component: () => import('../views/SearchProducts.vue'),
-  },
   { path: '*', redirect: '/' },
 ];
 

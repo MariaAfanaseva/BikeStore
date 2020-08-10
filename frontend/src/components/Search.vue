@@ -1,28 +1,15 @@
 <template>
-    <form action="/search?#" class="search_form">
-        <input placeholder="Search" type="text" class="search_field" v-model="searchLine">
-        <button class="btn_search" type="submit" @click="filter(searchLine)">
+    <div class="search_form">
+        <router-link to="/search" class="btn_search" type="submit">
             <i class="fa fa-search search"></i>
-        </button>
-    </form>
+        </router-link>
+    </div>
 </template>
 
 <script>
 
-import { mapActions } from 'vuex';
-
 export default {
   name: 'Search',
-
-  data() {
-    return {
-      searchLine: '',
-    };
-  },
-
-  methods: {
-    ...mapActions(['filter']),
-  },
 };
 
 </script>

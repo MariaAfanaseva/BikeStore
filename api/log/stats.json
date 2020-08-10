@@ -1308,5 +1308,15 @@
         "date": "August 10th 2020, 7:50:25 pm",
         "action": "delete",
         "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 9:42:23 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 9:42:29 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
     }
 ]

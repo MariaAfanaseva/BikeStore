@@ -71,10 +71,6 @@ export default {
     ...mapActions(['getCart', 'deleteBasketProduct']),
   },
 
-  created() {
-    this.getCart();
-  },
-
 };
 
 </script>
