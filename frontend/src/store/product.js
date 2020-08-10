@@ -12,12 +12,14 @@ export default ({
 
   actions: {
     getProduct({ commit, state }, id) {
+      commit('SET_LOADING_STATUS', true);
       return fetch(state.path + id)
         .then((result) => result.json())
         .catch((error) => {
           console.log(error);
         }).then((data) => {
           commit('SET_PRODUCT', data);
+          commit('SET_LOADING_STATUS', false);
         });
     },
   },

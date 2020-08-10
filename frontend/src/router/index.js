@@ -28,6 +28,17 @@ const routes = [
     name: 'Product',
     component: () => import('../views/Product.vue'),
   },
+  {
+    path: '/basket',
+    name: 'Basket',
+    component: () => import('../views/Basket.vue'),
+  },
+  {
+    path: '/search',
+    name: 'SearchProducts',
+    component: () => import('../views/SearchProducts.vue'),
+  },
+  { path: '*', redirect: '/' },
 ];
 
 const router = new VueRouter({

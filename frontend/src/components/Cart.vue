@@ -16,7 +16,10 @@
               :alt="product.product_name">
             <p class='basket_price'>Price: {{ product.price * product.quantity }} &euro;</p>
             <p class='basket_count'>Count: {{ product.quantity }}</p>
-            <a class="del_btn" @click="deleteBasketProduct(product)">Delete</a>
+            <!-- <a class="del_btn" @click="deleteBasketProduct(product)">Delete</a> -->
+        </div>
+        <div class="cart_btn_block">
+            <router-link to='/basket' class="cart_btn">Cart</router-link>
         </div>
     </div>
     </div>

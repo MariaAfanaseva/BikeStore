@@ -27,12 +27,14 @@ export default ({
 
   actions: {
     getCart({ commit, state }) {
+      commit('SET_LOADING_STATUS', true);
       return fetch(state.path)
         .then((result) => result.json())
         .catch((error) => {
           console.log(error);
         }).then((data) => {
           commit('SET_CART', data);
+          commit('SET_LOADING_STATUS', false);
         });
     },
 

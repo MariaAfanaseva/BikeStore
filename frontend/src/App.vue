@@ -1,11 +1,15 @@
 <template>
     <div id="app" class="container">
+        <div v-show="loadingState" class="loader_wrapper">
+            <div class="loader"></div>
+        </div>
         <div class="top">
             <div class="header">
                 <router-link to="/">
                     <img class="logo" src="./assets/foto/logo.jpg" alt="Logo BikeStore">
                 </router-link>
                     <ul class="menu">
+                        <Search/>
                         <li class="menu_list">
                             <router-link class="menu_link" to="/">Home</router-link>
                         </li>
@@ -28,10 +32,18 @@
 
 <script>
 import Cart from '@/components/Cart.vue';
+import Search from '@/components/Search.vue';
+import { mapGetters } from 'vuex';
 
 export default {
   components: {
     Cart,
+    Search,
   },
+
+  computed: {
+    ...mapGetters(['loadingState']),
+  },
+
 };
 </script>
