@@ -1,0 +1,1431 @@
+[
+    {
+        "date": "July 14th 2020, 3:22:36 pm",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:22:39 pm",
+        "action": "delete",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:22:57 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:58 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:58 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:58 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:59 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:22:59 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:08 pm",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:23:09 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:10 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:11 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:23:21 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:23:21 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:26 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:27 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:29 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:44 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:45 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:47 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:51 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:55 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:40:58 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:40:59 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:44:08 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:48:25 pm",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:49:20 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:49:26 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:50:50 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:53:24 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:25 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:28 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:53 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:53:56 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:54:03 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:54:03 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:54:06 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:18 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:21 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:22 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:23 pm",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:24 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:26 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:27 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:28 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:29 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:29 pm",
+        "action": "add",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:30 pm",
+        "action": "change",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:31 pm",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:31 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "delete",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:33 pm",
+        "action": "change",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:34 pm",
+        "action": "delete",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "July 14th 2020, 3:55:34 pm",
+        "action": "change",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:34 pm",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "July 14th 2020, 3:55:35 pm",
+        "action": "add",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:35 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:36 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:36 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:36 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:37 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:37 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:55:38 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:38 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:39 pm",
+        "action": "change",
+        "productName": "Мышка"
+    },
+    {
+        "date": "July 14th 2020, 3:55:59 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:56:00 pm",
+        "action": "change",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:56:00 pm",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "July 14th 2020, 3:56:05 pm",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:28 am",
+        "action": "add",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:29 am",
+        "action": "add",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:31 am",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:32 am",
+        "action": "delete",
+        "productName": "Keyboard"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:33 am",
+        "action": "delete",
+        "productName": "Gamepad"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:36 am",
+        "action": "add",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 2nd 2020, 11:10:37 am",
+        "action": "delete",
+        "productName": "Ноутбук"
+    },
+    {
+        "date": "August 7th 2020, 3:24:03 pm",
+        "action": "delete",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:28:14 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:28:21 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:28:59 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:29:01 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:29:03 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:29:20 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:29:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:30:26 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:31:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:31:31 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:31:32 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:31:32 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:57:40 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 3:58:48 pm",
+        "action": "delete",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 4:00:41 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 4:02:24 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 4:02:25 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 4:03:15 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 4:45:40 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:17:55 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:17:55 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:17:56 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:17:56 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:17:57 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:18 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:22 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:24 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:28 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:28 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:28 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:30 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:31 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:52:32 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:59:17 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:59:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:59:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:59:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:59:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 7:59:20 pm",
+        "action": "delete",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:18 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:20 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:22 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:26 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:27 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:27 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:28 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:02:30 pm",
+        "action": "delete",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:04:10 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:04:16 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:04:17 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:04:18 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:04:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:10:59 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:11:01 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:13:25 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:13:31 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:13:33 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:16:56 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:16:57 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:16:59 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:01 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:03 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:04 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:05 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:05 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:05 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:08 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:08 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:09 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:10 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:11 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:12 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:14 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:15 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:17 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:20 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:26 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:56 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:17:58 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:12 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:13 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:14 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:15 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:16 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:23 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:25 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:25 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:25 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:25 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:27 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:27 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:28 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:29 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:29 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:29 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:29 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:30 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:30 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:30 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:31 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:31 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:31 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:31 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:23:59 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:24:03 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:24:04 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:24:05 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:25:19 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:25:19 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:25:20 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 7th 2020, 8:25:21 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:22 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:26 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:27 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:36 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:37 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:38 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:38 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:38 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:25:38 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:34:30 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 7th 2020, 8:39:50 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 9th 2020, 9:30:51 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 9th 2020, 9:30:51 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 10:15:59 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 10:16:02 am",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 10:16:02 am",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 10:16:03 am",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 10:16:03 am",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:16:35 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:21:14 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:31:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:31:20 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:36:29 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:36:30 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:36:46 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:36:48 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:36:51 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:36:52 pm",
+        "action": "delete",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:38:27 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:38:31 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:38:31 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:38:52 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 1:38:54 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:02:03 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:03:18 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:03:21 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:03:24 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:03:26 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:05:04 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 2:05:05 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 2:05:05 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 2:05:05 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 2:05:09 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:05:09 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 2:05:14 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 2:05:15 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 2:36:23 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 7:50:16 pm",
+        "action": "add",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 7:50:23 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "August 10th 2020, 7:50:25 pm",
+        "action": "delete",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "August 10th 2020, 9:42:23 pm",
+        "action": "change",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "August 10th 2020, 9:42:29 pm",
+        "action": "add",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:18:24 am",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:18:33 am",
+        "action": "add",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:18:35 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:30:46 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:30:49 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:53:30 am",
+        "action": "add"
+    },
+    {
+        "date": "October 3rd 2020, 12:07:21 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 12:09:50 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 12:10:03 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 12:10:06 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 12:10:07 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 1:21:33 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 1:47:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 1:47:21 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:18 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:19 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:21 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:22 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 4:57:14 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    }
+]

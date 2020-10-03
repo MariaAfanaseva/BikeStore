@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Giant Glory 27.5 0",
+    "image": "Glory_27_5_0_Brushed_Black.jpg",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "Giant Trance Advanced 25.8 1",
+    "image": "MY19-Trance-ADV-1_Color-A.jpg",
+    "price": 1500
+  },
+  {
+    "id": 3,
+    "name": "Giant Glory Advanced 26.5 0",
+    "image": "MY19-Trance-ADV-1_Color-A.jpg",
+    "price": 1300
+  },
+  {
+    "id": 4,
+    "name": "Giant Glory Advanced 29.5 0",
+    "image": "MY19GloryADV1_ColorA.jpg",
+    "price": 900
+  }
+]
