@@ -3,9 +3,10 @@ const fs = require('fs');
 const handler = require('./handler');
 const router = express.Router();
 const dbPath = 'db/userCart.json';
+const path = require('path'); 
 
 router.get('/', (req, res) => {
-	fs.readFile('db/userCart.json', 'utf-8', (err, data) => {
+	fs.readFile(path.resolve('db', 'userCart.json'), 'utf-8', (err, data) => {
 		if (err) {
 			res.sendStatus(404, JSON.stringify({result: 0, text: err}));
 		} else {

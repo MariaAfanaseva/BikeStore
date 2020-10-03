@@ -8,11 +8,11 @@
             </button>
         </div>
         <div class="catalog_products_container">
-            <div class="catalog_product" v-for="product of filtered" :key="product.id_product">
-                <router-link class="catalog_product_link" :to="`/product/${product.id_product}`">
+            <div class="catalog_product" v-for="product of filtered" :key="product.id">
+                <router-link class="catalog_product_link" :to="`/product/${product.id}`">
                     <img class="catalog_product_img"
-                    :src="require(`../assets/foto/${product.image}`)"
-                    :alt="product.product_name">{{ product.product_name }}
+                    :src="require(`@/assets/foto/${product.image}`)"
+                    :alt="product.name">{{ product.name }}
                 </router-link>
             </div>
         </div>

@@ -1,11 +1,11 @@
 <template>
     <div class="product_block">
-        <h1 class="title">{{ product.product_name }}</h1>
+        <h1 class="title">{{ product.name }}</h1>
             <div class="product_container">
                 <div>
                     <img class="product_detail_img"
-                        src="../assets/foto/Glory_27_5_0_Brushed_Black.jpg"
-                        alt="Giant Glory 27.5"
+                        :src="require(`@/assets/foto/${product.image}`)"
+                        :alt="product.name"
                     >
                 </div>
                     <div class="product_short">

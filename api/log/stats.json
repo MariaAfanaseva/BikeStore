@@ -1318,5 +1318,114 @@
         "date": "August 10th 2020, 9:42:29 pm",
         "action": "add",
         "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:18:24 am",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 26.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:18:33 am",
+        "action": "add",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:18:35 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:30:46 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:30:49 am",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 11:53:30 am",
+        "action": "add"
+    },
+    {
+        "date": "October 3rd 2020, 12:07:21 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 12:09:50 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 12:10:03 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 12:10:06 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 12:10:07 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 1:21:33 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 1:47:19 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 1:47:21 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:18 pm",
+        "action": "change",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:19 pm",
+        "action": "delete",
+        "productName": "Giant Trance Advanced 25.8 1"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:21 pm",
+        "action": "delete",
+        "productName": "Giant Glory Advanced 29.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:22 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 3:47:23 pm",
+        "action": "change",
+        "productName": "Giant Glory 27.5 0"
+    },
+    {
+        "date": "October 3rd 2020, 4:57:14 pm",
+        "action": "add",
+        "productName": "Giant Trance Advanced 25.8 1"
     }
 ]

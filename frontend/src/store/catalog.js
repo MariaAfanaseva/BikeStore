@@ -3,6 +3,7 @@ export default ({
     products: [],
     filtered: [],
     loading: false,
+    path: 'http://localhost:8000/api/products',
   },
 
   mutations: {
@@ -20,9 +21,9 @@ export default ({
   },
 
   actions: {
-    fetchJSON({ commit }) {
+    fetchJSON({ commit, state }) {
       commit('SET_LOADING_STATUS', true);
-      return fetch('http://localhost:8000/api/products')
+      return fetch(state.path)
         .then((result) => result.json())
         .catch((error) => {
           console.log(error);
@@ -35,7 +36,7 @@ export default ({
 
     filter({ state, commit }, searchLine) {
       const regExp = new RegExp(searchLine, 'i');
-      commit('SET_FILTERED', state.products.filter((product) => regExp.test(product.product_name)));
+      commit('SET_FILTERED', state.products.filter((product) => regExp.test(product.name)));
     },
   },
 

@@ -1,7 +1,7 @@
 # bike_store 
 frontend: Vue CLI, 
 api: node, express, 
-Start api server: node api/main.js
+Start api server (in folder api) : node main.js
 
 ## Project setup
 ```

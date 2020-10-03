@@ -11,7 +11,7 @@ export default ({
 
     CHANGE_COUNT(state, { product, quantity }) {
       const basketProduct = state.cart.find(
-        (item) => item.id_product === product.id_product,
+        (item) => item.id === product.id,
       );
       basketProduct.quantity += quantity;
     },
@@ -63,13 +63,13 @@ export default ({
 
     addProduct({ state, dispatch }, product) {
       const cartProduct = state.cart.find(
-        (item) => item.id_product === product.id_product,
+        (item) => item.id === product.id,
       );
       if (cartProduct) {
         dispatch(
           'putProduct',
           {
-            url: `${state.path + product.id_product}`,
+            url: `${state.path + product.id}`,
             quantity: 1,
             product,
           },
@@ -131,7 +131,7 @@ export default ({
         dispatch(
           'putProduct',
           {
-            url: `${state.path + product.id_product}`,
+            url: `${state.path + product.id}`,
             quantity: -1,
             product,
           },
@@ -140,7 +140,7 @@ export default ({
         dispatch(
           'deleteProduct',
           {
-            url: `${state.path + product.id_product}`,
+            url: `${state.path + product.id}`,
             product,
           },
         );
